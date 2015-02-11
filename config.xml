@@ -15,7 +15,5 @@
     <icon src="res/icon/android/drawable-xhdpi/tp_icon.png" gap:platform="android" gap:qualifier="xhdpi" />
     <icon src="res/icon/android/drawable-xxhdpi/tp_icon.png" gap:platform="android" gap:qualifier="xxhdpi" />
  
-	
-
 
 </widget>
